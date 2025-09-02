@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1400" viewBox="0 0 2000 1400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7fbff"/>
+      <stop offset="100%" stop-color="#eef6ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#5b6b8b" flood-opacity="0.25"/>
+    </filter>
+    <style><![CDATA[
+      .title { font-family: 'Nunito','Arial','sans-serif'; font-weight: 800; fill:#d43f5e; }
+      .subtitle { font-family: 'Nunito','Arial','sans-serif'; font-weight: 700; fill:#394b59; }
+      .small { font-family: 'Nunito','Arial','sans-serif'; font-size: 28px; fill:#394b59; }
+      .pinyin { fill:#00a4d6; font-style: italic; }
+      .hanzi { font-family: 'Noto Sans CJK SC','WenQuanYi Micro Hei','PingFang SC','Microsoft YaHei','Arial Unicode MS',sans-serif; }
+      .bubble { fill:#ffffff; stroke:#2a2a2a; stroke-width:4px; filter:url(#shadow); }
+      .panel { fill:#ffffff; stroke:#e3ecff; stroke-width:6px; rx:28; filter:url(#shadow); }
+    ]]></style>
+
+    <!-- Reusable simple character (anime-inspired, not a specific IP) -->
+    <g id="charBoy">
+      <circle cx="0" cy="-30" r="48" fill="#ffd6b3" stroke="#323232" stroke-width="4"/>
+      <rect x="-40" y="20" width="80" height="120" rx="20" fill="#4fb3a4" stroke="#323232" stroke-width="4"/>
+      <rect x="-28" y="140" width="56" height="20" rx="8" fill="#323232"/>
+      <rect x="-52" y="160" width="40" height="20" rx="8" fill="#6f88ff"/>
+      <rect x="12" y="160" width="40" height="20" rx="8" fill="#6f88ff"/>
+      <circle cx="-15" cy="-40" r="6" fill="#323232"/>
+      <circle cx="15" cy="-40" r="6" fill="#323232"/>
+      <path d="M -18 -18 Q 0 -6 18 -18" stroke="#323232" stroke-width="4" fill="none"/>
+      <path d="M -50 -52 Q 0 -90 50 -52" stroke="#3b3b3b" stroke-width="6" fill="none"/>
+    </g>
+    <g id="charGirl">
+      <circle cx="0" cy="-30" r="48" fill="#ffd6b3" stroke="#323232" stroke-width="4"/>
+      <rect x="-36" y="20" width="72" height="120" rx="26" fill="#f26d7d" stroke="#323232" stroke-width="4"/>
+      <rect x="-28" y="140" width="56" height="20" rx="8" fill="#323232"/>
+      <rect x="-50" y="160" width="40" height="20" rx="8" fill="#ffb86b"/>
+      <rect x="10" y="160" width="40" height="20" rx="8" fill="#ffb86b"/>
+      <circle cx="-15" cy="-40" r="6" fill="#323232"/>
+      <circle cx="15" cy="-40" r="6" fill="#323232"/>
+      <path d="M -22 -18 Q 0 0 22 -18" stroke="#323232" stroke-width="4" fill="none"/>
+      <path d="M -48 -56 Q 0 -78 48 -56" stroke="#3b3b3b" stroke-width="6" fill="none"/>
+      <circle cx="-52" cy="-20" r="6" fill="#f26d7d"/>
+      <circle cx="52" cy="-20" r="6" fill="#f26d7d"/>
+    </g>
+
+    <!-- Speech bubble pointer as marker -->
+    <marker id="pointerLeft" markerWidth="10" markerHeight="10" refX="0" refY="5" orient="auto">
+      <path d="M 10 0 L 0 5 L 10 10 Z" fill="#ffffff" stroke="#2a2a2a" stroke-width="3"/>
+    </marker>
+    <marker id="pointerRight" markerWidth="10" markerHeight="10" refX="10" refY="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#ffffff" stroke="#2a2a2a" stroke-width="3"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="2000" height="1400" fill="url(#bgGrad)"/>
+
+  <!-- 2x2 grid panels -->
+  <g transform="translate(80,80)">
+    <!-- Panel 1: Hello -->
+    <rect class="panel" x="0" y="0" width="860" height="560"/>
+    <text x="40" y="80" class="title" font-size="88">Hello</text>
+    <g transform="translate(140,360) scale(1.0)">
+      <use href="#charBoy"/>
+    </g>
+    <g transform="translate(360,360) scale(1.0)">
+      <use href="#charGirl"/>
+    </g>
+    <!-- speech bubbles -->
+    <g>
+      <rect x="560" y="80" width="240" height="140" rx="26" class="bubble"/>
+      <text x="680" y="140" text-anchor="middle" class="subtitle pinyin" font-size="36">nǐ hǎo</text>
+      <text x="680" y="190" text-anchor="middle" class="subtitle hanzi" font-size="48">你好！</text>
+    </g>
+    <text x="30" y="540" class="small" fill="#8793a1">1.</text>
+
+    <!-- Panel 2: How are you? I am fine. -->
+    <rect class="panel" x="980" y="0" width="860" height="560"/>
+    <text x="1020" y="80" class="title" font-size="88">How are you?</text>
+    <g transform="translate(1120,360) scale(1.0)">
+      <use href="#charBoy"/>
+    </g>
+    <g transform="translate(1340,360) scale(1.0)">
+      <use href="#charGirl"/>
+    </g>
+    <g>
+      <rect x="1520" y="80" width="280" height="160" rx="26" class="bubble"/>
+      <text x="1660" y="140" text-anchor="middle" class="subtitle pinyin" font-size="34">nǐ hǎo ma?</text>
+      <text x="1660" y="190" text-anchor="middle" class="subtitle hanzi" font-size="48">你好吗？</text>
+    </g>
+    <g>
+      <rect x="1520" y="270" width="280" height="180" rx="26" class="bubble"/>
+      <text x="1660" y="330" text-anchor="middle" class="subtitle pinyin" font-size="34">wǒ hěn hǎo</text>
+      <text x="1660" y="380" text-anchor="middle" class="subtitle hanzi" font-size="48">我很好</text>
+      <text x="1660" y="425" text-anchor="middle" class="subtitle" font-size="36">I am fine.</text>
+    </g>
+    <text x="1010" y="540" class="small" fill="#8793a1">2.</text>
+
+    <!-- Panel 3: Introduction -->
+    <rect class="panel" x="0" y="640" width="860" height="560"/>
+    <text x="40" y="720" class="title" font-size="84">Introduction</text>
+    <g transform="translate(140,1000) scale(1.0)">
+      <use href="#charBoy"/>
+    </g>
+    <g transform="translate(360,1000) scale(1.0)">
+      <use href="#charGirl"/>
+    </g>
+    <g>
+      <rect x="560" y="690" width="260" height="190" rx="26" class="bubble"/>
+      <text x="690" y="750" text-anchor="middle" class="subtitle" font-size="30">What is your name?</text>
+      <text x="690" y="790" text-anchor="middle" class="subtitle pinyin" font-size="28">Nǐ jiào shénme míngzi?</text>
+      <text x="690" y="835" text-anchor="middle" class="subtitle hanzi" font-size="44">你叫什么名字？</text>
+    </g>
+    <g>
+      <rect x="560" y="910" width="260" height="190" rx="26" class="bubble"/>
+      <text x="690" y="970" text-anchor="middle" class="subtitle pinyin" font-size="30">Wǒ jiào Mingli</text>
+      <text x="690" y="1015" text-anchor="middle" class="subtitle hanzi" font-size="44">我叫明丽</text>
+    </g>
+    <text x="30" y="1180" class="small" fill="#8793a1">3.</text>
+
+    <!-- Panel 4: Goodbye -->
+    <rect class="panel" x="980" y="640" width="860" height="560"/>
+    <text x="1020" y="720" class="title" font-size="88">Goodbye</text>
+    <g transform="translate(1120,1000) scale(1.0)">
+      <use href="#charBoy"/>
+    </g>
+    <g transform="translate(1340,1000) scale(1.0)">
+      <use href="#charGirl"/>
+    </g>
+    <g>
+      <rect x="1520" y="760" width="280" height="160" rx="26" class="bubble"/>
+      <text x="1660" y="820" text-anchor="middle" class="subtitle pinyin" font-size="34">zài jiàn</text>
+      <text x="1660" y="865" text-anchor="middle" class="subtitle hanzi" font-size="48">再见</text>
+    </g>
+    <text x="1020" y="1180" class="subtitle" font-size="40">See you later</text>
+    <text x="1010" y="1180" class="small" fill="#8793a1">4.</text>
+  </g>
+
+  <!-- Header credit -->
+  <text x="1000" y="54" text-anchor="middle" class="small" fill="#8b99a8">Introducció a la llengua i cultura xinesa · 4 vinyetes</text>
+</svg>
+
