@@ -33,21 +33,35 @@
 - **Time**: 1 minute
 
 ### Step 3: Vitamin C Serum ⭐
-**Choose ONE per day:**
+**You have THREE options:**
 
-**Option A: Bio Serum Vitamin C + E + Ferulic** (Recommended)
+**Option A: COMBINE BOTH (Recommended for Maximum Benefits)** ⭐
+- **Step 1**: Apply **Clínical The Real C (20%)** - 2-3 drops
+- **Step 2**: Wait 2-3 minutes for absorption
+- **Step 3**: Apply **Bio Serum Vitamin C + E + Ferulic** - 2-3 drops on top
+- **Step 4**: Gently pat in, wait 5-10 minutes before next step
+- **Why**: Real C provides high concentration (20%), Bio Serum adds ferulic acid + vitamin E (powerful combo!)
+- **Start**: 3-4x/week, increase to daily if tolerated
+- **Watch for**: Irritation, redness, stinging (if occurs, reduce frequency)
+
+**Option B: Bio Serum Vitamin C + E + Ferulic Only**
 - Apply 3-4 drops to face and neck
 - Gently pat in
 - Wait 5-10 minutes before next step
 - **Why**: Contains ferulic acid + vitamin E (like Skinceuticals formula!)
+- **Use on**: Rest days or if combined version causes irritation
 
-**Option B: Clínical The Real C drops (20%)**
+**Option C: Clínical The Real C (20%) Only**
 - Apply 3-4 drops
 - Gently pat in
 - Wait 5-10 minutes
 - **Why**: Higher concentration (20%), pure ascorbic acid
+- **Use on**: Days when you want maximum concentration without layering
 
-**Recommendation**: Use Bio Serum most days (better formula), use Real C 2x/week for extra boost
+**Recommendation**: 
+- **Best**: Combine both (Option A) for maximum benefits - Real C provides high concentration, Bio Serum adds ferulic acid + vitamin E
+- **Start slowly**: Use combined version 3-4x/week, alternate with single products
+- **If irritation**: Use single products only, or reduce Real C to 1-2 drops
 
 ### Step 4: Moisturizer
 - Lightweight moisturizer (not in your products - add one)
@@ -108,31 +122,31 @@
 ## 📅 WEEKLY SCHEDULE
 
 ### **MONDAY**
-- **Morning**: Cleanser → Bio Serum Vitamin C → Moisturizer → SPF
+- **Morning**: Cleanser → Real C (2-3 drops) → Wait 2-3 min → Bio Serum (2-3 drops) → Moisturizer → SPF
 - **Evening**: Double cleanse → Retinal 0.1 → Wait 30 min → Bakuchiol Cream
 
 ### **TUESDAY**
-- **Morning**: Cleanser → Clínical The Real C (20%) → Moisturizer → SPF
+- **Morning**: Cleanser → Real C (2-3 drops) → Wait 2-3 min → Bio Serum (2-3 drops) → Moisturizer → SPF
 - **Evening**: Double cleanse → AHA 10% (10-20 min, rinse) → Bakuchiol Cream
 
 ### **WEDNESDAY** (Rest Day)
-- **Morning**: Cleanser → Bio Serum Vitamin C → Moisturizer → SPF
+- **Morning**: Cleanser → Bio Serum Vitamin C only (3-4 drops) → Moisturizer → SPF
 - **Evening**: Double cleanse → Bakuchiol Cream only (no actives)
 
 ### **THURSDAY**
-- **Morning**: Cleanser → Bio Serum Vitamin C → Moisturizer → SPF
+- **Morning**: Cleanser → Real C (2-3 drops) → Wait 2-3 min → Bio Serum (2-3 drops) → Moisturizer → SPF
 - **Evening**: Double cleanse → Retinal 0.1 → Wait 30 min → Bakuchiol Cream
 
 ### **FRIDAY**
-- **Morning**: Cleanser → Bio Serum Vitamin C → Moisturizer → SPF
+- **Morning**: Cleanser → Real C (2-3 drops) → Wait 2-3 min → Bio Serum (2-3 drops) → Moisturizer → SPF
 - **Evening**: Double cleanse → AHA 10% (10-20 min, rinse) → Bakuchiol Cream
 
 ### **SATURDAY** (Rest Day)
-- **Morning**: Cleanser → Clínical The Real C (20%) → Moisturizer → SPF
+- **Morning**: Cleanser → Bio Serum Vitamin C only (3-4 drops) → Moisturizer → SPF
 - **Evening**: Double cleanse → Bakuchiol Cream only (no actives)
 
 ### **SUNDAY** (Rest Day)
-- **Morning**: Cleanser → Bio Serum Vitamin C → Moisturizer → SPF
+- **Morning**: Cleanser → Bio Serum Vitamin C only (3-4 drops) → Moisturizer → SPF
 - **Evening**: Double cleanse → Bakuchiol Cream only (no actives)
 
 ---
@@ -140,18 +154,18 @@
 ## 🎯 PRODUCT USAGE GUIDE
 
 ### **Bio Serum Vitamin C + E + Ferulic**
-- **When**: Morning, daily
-- **Amount**: 3-4 drops
-- **Frequency**: 5-6x/week
-- **Best for**: Daily antioxidant protection, anti-aging
-- **Why it's great**: Contains ferulic acid + vitamin E (powerful combo!)
+- **When**: Morning, layered after Real C OR used alone on rest days
+- **Amount**: 2-3 drops (when layered) OR 3-4 drops (when used alone)
+- **Frequency**: Daily (layered 4-5x/week, alone 2-3x/week)
+- **Best for**: Adding ferulic acid + vitamin E benefits, antioxidant protection
+- **Why it's great**: Contains ferulic acid + vitamin E (powerful combo that enhances Real C!)
 
 ### **Clínical The Real C (20%)**
-- **When**: Morning, 1-2x/week
-- **Amount**: 3-4 drops
-- **Frequency**: 1-2x/week (for extra boost)
-- **Best for**: Maximum brightening, higher concentration days
-- **Why it's great**: 20% pure ascorbic acid (very strong!)
+- **When**: Morning, applied FIRST before Bio Serum
+- **Amount**: 2-3 drops (when layered) OR 3-4 drops (when used alone)
+- **Frequency**: 4-5x/week (layered with Bio Serum)
+- **Best for**: High concentration vitamin C, maximum brightening
+- **Why it's great**: 20% pure ascorbic acid (very strong!) - provides the high concentration, Bio Serum adds stability and enhancement
 
 ### **Retinal 0.1**
 - **When**: Evening, 2-3x/week
@@ -251,7 +265,7 @@
 
 ## 💡 PRO TIPS
 
-1. **Vitamin C Strategy**: Use Bio Serum daily (better formula), use Real C 2x/week for extra boost
+1. **Vitamin C Strategy**: **COMBINE BOTH** - Real C first (high concentration), then Bio Serum (adds ferulic acid + vitamin E). This creates a powerful combo similar to Skinceuticals CE Ferulic! Start 3-4x/week, increase to daily if tolerated.
 2. **Retinal Timing**: Apply to dry skin, wait 30 min before moisturizer for best results
 3. **AHA Timing**: Start with 10 minutes, increase to 20 if tolerated
 4. **Bakuchiol**: Perfect for rest days - gives anti-aging benefits without irritation
@@ -273,7 +287,8 @@
 
 **MORNING (Daily)**:
 1. Cleanser
-2. Vitamin C (Bio Serum or Real C)
+2. **Real C (2-3 drops)** → Wait 2-3 min → **Bio Serum (2-3 drops)** ⭐ (Combined for maximum benefits!)
+   - OR Bio Serum alone on rest days
 3. Moisturizer
 4. **SPF 50+** ⚠️
 

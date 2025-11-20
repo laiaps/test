@@ -11,12 +11,12 @@
 
 ## 🌅 MORNING (Every Day)
 ```
-Cleanser → Vitamin C → Moisturizer → SPF 50+
+Cleanser → Real C (2-3 drops) → Wait 2-3 min → Bio Serum (2-3 drops) → Moisturizer → SPF 50+
 ```
 
 **Vitamin C Schedule:**
-- **Mon, Wed, Thu, Fri, Sun**: Bio Serum Vitamin C + E + Ferulic
-- **Tue, Sat**: Clínical The Real C 20% (for extra boost)
+- **Mon, Tue, Thu, Fri**: **COMBINE BOTH** - Real C first, then Bio Serum (maximum benefits!)
+- **Wed, Sat, Sun**: Bio Serum only (rest days - gentler)
 
 ---
 
@@ -72,8 +72,8 @@ Double Cleanse → Bakuchiol Cream ONLY
 
 | Product | Frequency | Days |
 |---------|-----------|------|
-| Bio Serum Vitamin C | 5x/week | Mon, Wed, Thu, Fri, Sun |
-| Real C 20% | 2x/week | Tue, Sat |
+| **Real C + Bio Serum (COMBINED)** | 4x/week | Mon, Tue, Thu, Fri |
+| Bio Serum (alone) | 3x/week | Wed, Sat, Sun |
 | Retinal 0.1 | 2x/week | Mon, Thu |
 | AHA 10% | 2x/week | Tue, Fri |
 | Bakuchiol Cream | Daily | Every evening |
